@@ -21,6 +21,7 @@ struct ContentView: View {
                     .font(.subheadline)
             }
         }
+        .padding(.horizontal)
     }
 }
 
