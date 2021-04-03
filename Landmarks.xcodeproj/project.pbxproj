@@ -37,6 +37,7 @@
 		8DF205772617674D00C0D847 /* CategoryHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DF205762617674D00C0D847 /* CategoryHome.swift */; };
 		8DF2057F2617686100C0D847 /* CategoryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DF2057E2617686100C0D847 /* CategoryRow.swift */; };
 		8DF20584261768EC00C0D847 /* CategoryItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DF20583261768EC00C0D847 /* CategoryItem.swift */; };
+		8DF5C90326192B6000CA56FE /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DF5C90226192B6000CA56FE /* Profile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -93,6 +94,7 @@
 		8DF205762617674D00C0D847 /* CategoryHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryHome.swift; sourceTree = "<group>"; };
 		8DF2057E2617686100C0D847 /* CategoryRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryRow.swift; sourceTree = "<group>"; };
 		8DF20583261768EC00C0D847 /* CategoryItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryItem.swift; sourceTree = "<group>"; };
+		8DF5C90226192B6000CA56FE /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 				8D6430EF2608D5A000F02452 /* Landmark.swift */,
 				8D6430F42608D7B600F02452 /* ModelData.swift */,
 				8DF205642617627600C0D847 /* Hike.swift */,
+				8DF5C90226192B6000CA56FE /* Profile.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -413,6 +416,7 @@
 				8D64310D260B865C00F02452 /* LandmarkDetail.swift in Sources */,
 				8DF2055A2616B53700C0D847 /* Badge.swift in Sources */,
 				8D75D228261418A100A699ED /* BadgeBackground.swift in Sources */,
+				8DF5C90326192B6000CA56FE /* Profile.swift in Sources */,
 				8D69B23526080A9000DC2AA1 /* CircleImage.swift in Sources */,
 				8D6430F02608D5A000F02452 /* Landmark.swift in Sources */,
 				8DF2056E261762D300C0D847 /* GraphCapsule.swift in Sources */,
