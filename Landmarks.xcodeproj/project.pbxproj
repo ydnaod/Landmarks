@@ -38,6 +38,7 @@
 		8DF2057F2617686100C0D847 /* CategoryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DF2057E2617686100C0D847 /* CategoryRow.swift */; };
 		8DF20584261768EC00C0D847 /* CategoryItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DF20583261768EC00C0D847 /* CategoryItem.swift */; };
 		8DF5C90326192B6000CA56FE /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DF5C90226192B6000CA56FE /* Profile.swift */; };
+		8DF5C908261ABFCF00CA56FE /* ProfileHost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DF5C907261ABFCF00CA56FE /* ProfileHost.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -95,6 +96,7 @@
 		8DF2057E2617686100C0D847 /* CategoryRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryRow.swift; sourceTree = "<group>"; };
 		8DF20583261768EC00C0D847 /* CategoryItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryItem.swift; sourceTree = "<group>"; };
 		8DF5C90226192B6000CA56FE /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
+		8DF5C907261ABFCF00CA56FE /* ProfileHost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHost.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,6 +145,7 @@
 				8D75D2192610CA7600A699ED /* Helpers */,
 				8D75D2182610CA6C00A699ED /* Landmarks */,
 				8DF205542616B4F200C0D847 /* SwiftUIView.swift */,
+				8DF5C907261ABFCF00CA56FE /* ProfileHost.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -405,6 +408,7 @@
 				8D69B23A26080BF100DC2AA1 /* MapView.swift in Sources */,
 				8DC1A0F426078E2C00B89DB0 /* LandmarksApp.swift in Sources */,
 				8DF205772617674D00C0D847 /* CategoryHome.swift in Sources */,
+				8DF5C908261ABFCF00CA56FE /* ProfileHost.swift in Sources */,
 				8DF2056F261762D300C0D847 /* HikeGraph.swift in Sources */,
 				8DF2057F2617686100C0D847 /* CategoryRow.swift in Sources */,
 				8D75D2142610C9EC00A699ED /* FavoriteButton.swift in Sources */,
